@@ -1,6 +1,6 @@
 Last updated: 04.06.2025
 
-PicToCal ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our mobile application ("the app").
+PicToCalorie ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our mobile application ("the app").
 
 1. Information We Collect
 To provide you with a personalized calorie tracking experience, we collect the following personal information:
@@ -39,7 +39,7 @@ Update or correct your information
 Delete your data at any time by contacting us or using the delete account option (if available in the app)
 
 5. Children’s Privacy
-PicToCal is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we learn that such data has been collected, it will be deleted promptly.
+PicToCalorie is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we learn that such data has been collected, it will be deleted promptly.
 
 6. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be reflected with an updated “Last updated” date above. We encourage you to review this policy periodically.
